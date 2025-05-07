@@ -21,3 +21,6 @@ Includes product prices, sales values, sales dates, types, and countries.
 
 ## 📁 Report
 You can view the analysis as an interactive [Jupyter Notebook](DataAAnalyticsProject.ipynb) or [HTML Report](DataAAnalyticsProject_Report.html).
+
+# 📂 Dataset Source
+This dataset is used for educational purposes. *((https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset))*
